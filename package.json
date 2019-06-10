@@ -14,8 +14,14 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "@mdi/font": "^3.6.95",
+    "axios": "^0.19.0",
+    "material-design-icons-iconfont": "^5.0.1",
+    "moment": "^2.24.0",
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "vuetify": "^1.5.14",
+    "vuex": "^3.1.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
